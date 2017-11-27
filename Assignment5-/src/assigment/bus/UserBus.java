@@ -9,7 +9,7 @@ import assigment.model.User;
 import assigment.util.Validate;
 
 /**
- * @author Minh Quang.
+ * @author Minh Quang. 
  * @date 2017-Oct-30
  */
 public class UserBus {

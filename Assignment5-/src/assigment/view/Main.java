@@ -8,7 +8,6 @@ import assigment.bus.UserBus;
  * @date 2017-Oct-30
  */
 public class Main {
-
   public static void main(String[] args) throws SQLException, ClassNotFoundException {
     UserBus userBus = new UserBus();
     userBus.input();
